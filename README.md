@@ -41,7 +41,6 @@ I design and architect **AI-native systems** at the intersection of neuroscience
 
 
 ### 🤖 [Ritual — Neurofeedback Agent](https://github.com/bhineswaveformer6/ritual)
- 🤖 [Ritual — Neurofeedback Agent](https://github.com/bhineswaveformer6/ritual)
 > Python backend powering an AI neurofeedback agent. Integrates Abacus.AI for adaptive cognitive state modeling.
 
 ### ⚡ [Bolt Remotion Portal](https://github.com/bhineswaveformer6/bolt-remotion-portal)
